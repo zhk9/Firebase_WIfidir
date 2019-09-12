@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">593010574997-ev3ba1lm84tb8vtc8i5fvvqppa14t80j.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://prefab-drake-249615.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">593010574997</string>
+    <string name="google_api_key" translatable="false">AIzaSyDK5FkyZU_UYiNmkaRT1ASsTLX3XI5gyN4</string>
+    <string name="google_app_id" translatable="false">1:593010574997:android:1050b5183d6dbc6636fd9c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDK5FkyZU_UYiNmkaRT1ASsTLX3XI5gyN4</string>
+    <string name="google_storage_bucket" translatable="false">prefab-drake-249615.appspot.com</string>
+    <string name="project_id" translatable="false">prefab-drake-249615</string>
+</resources>

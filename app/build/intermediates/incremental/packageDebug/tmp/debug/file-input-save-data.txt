@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Sep 09 02:56:25 PDT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\User\\Desktop\\UBC\\app usage\\loa\\Firebase_WIfidir\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "593010574997",
+    "firebase_url": "https://prefab-drake-249615.firebaseio.com",
+    "project_id": "prefab-drake-249615",
+    "storage_bucket": "prefab-drake-249615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593010574997:android:1050b5183d6dbc6636fd9c",
+        "android_client_info": {
+          "package_name": "com.example.user.firebase_wifidir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593010574997-obqb86sdp8o82e5i0bii9bak9ndn4eu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.firebase_wifidir",
+            "certificate_hash": "d67a838a24b2b62d747001b6fd4b23c76dd313ae"
+          }
+        },
+        {
+          "client_id": "593010574997-ev3ba1lm84tb8vtc8i5fvvqppa14t80j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK5FkyZU_UYiNmkaRT1ASsTLX3XI5gyN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593010574997-ev3ba1lm84tb8vtc8i5fvvqppa14t80j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
